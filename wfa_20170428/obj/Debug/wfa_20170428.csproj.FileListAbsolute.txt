@@ -1,0 +1,9 @@
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\obj\Debug\wfa_20170428.csprojResolveAssemblyReference.cache
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\obj\Debug\wfa_20170428.Form1.resources
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\obj\Debug\wfa_20170428.csproj.GenerateResource.Cache
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\bin\Debug\wfa_20170428.exe.config
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\bin\Debug\wfa_20170428.exe
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\bin\Debug\wfa_20170428.pdb
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\obj\Debug\wfa_20170428.Properties.Resources.resources
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\obj\Debug\wfa_20170428.exe
+G:\zsb\Code\vs2017\DragToolStripDemo\wfa_20170428\obj\Debug\wfa_20170428.pdb
